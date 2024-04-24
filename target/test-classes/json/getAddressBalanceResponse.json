@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "data": {
+    "network": "BTCTEST",
+    "available_balance": "0.00012095",
+    "pending_received_balance": "0.00000000",
+    "balances": [
+      {
+        "user_id": 0,
+        "label": "default",
+        "address": "2Mu5KYeNVdE5tKSfmiFUFvcA9RMZWENvCdH",
+        "available_balance": "0.00012095",
+        "pending_received_balance": "0.00000000"
+      }
+    ]
+  }
+}
