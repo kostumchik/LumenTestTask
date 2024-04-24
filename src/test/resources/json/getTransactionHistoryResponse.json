@@ -1,0 +1,25 @@
+{
+  "status": "success",
+  "data": {
+    "network": "BTCTEST",
+    "txs": [
+      {
+        "txid": "149a2c0726ad3cac9c0138668fb8d49361a9754c8643fac32c2101e303d1189c",
+        "from_green_address": false,
+        "time": 1713962289,
+        "confirmations": 1232,
+        "amounts_received": [
+          {
+            "recipient": "2Mu5KYeNVdE5tKSfmiFUFvcA9RMZWENvCdH",
+            "amount": "0.00012095"
+          }
+        ],
+        "senders": [
+          "tb1qkc8xtnkexgxxrnjet8mkl5l6zzyzq2kk6pcqf5"
+        ],
+        "confidence": 1.0,
+        "propagated_by_nodes": null
+      }
+    ]
+  }
+}
